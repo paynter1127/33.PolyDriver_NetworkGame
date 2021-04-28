@@ -1,8 +1,20 @@
 # PolyDriver_NetworkGame
 
-프로젝트 플레이 영상 링크 https://youtu.be/rIL6qS9KRvQ
+환경 : C#, Unity3D 2019.3.0f3, Firebase, Photon Network
+
+주요 구현 사항
+  - Login using Google Firebase Backend 
+  - Multiplayer Lobby, Room using Photon Network Server
+  - Multiplayer user sync using Photon Network Server
+  - Particle Effect
+  - Multiplayer Joystick
+  - Android / PC Project Build
+
+제작 과정 URL : https://paynter1127.blogspot.com/2020/01/10-3d.html
 
 
+
+* ReadMe Please
 
 PolyDriver 는 4인 네트워크 플레이 게임 입니다.
 
