@@ -14,7 +14,7 @@
 
 
 
-* ReadMe Please
+
 
 PolyDriver 는 4인 네트워크 플레이 게임 입니다.
 
