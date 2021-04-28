@@ -1,6 +1,6 @@
 # PolyDriver_NetworkGame
 
-https://youtu.be/rIL6qS9KRvQ
+프로젝트 플레이 영상 링크 https://youtu.be/rIL6qS9KRvQ
 
 PolyDriver 는 4인 네트워크 플레이 게임 입니다.
 
